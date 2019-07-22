@@ -50,3 +50,11 @@ MariaDB, ilişkisel veritabanı sistemi olan MySQL'in kaynak kodundan türemiş,
 
 ### Servis Nedir?
 Belirli bir görevi yerine getirebilmek için arka planda çalışan ve kullanıcının uygulamayla olan ilişkisini etkilemeyen işlemler için kullanılan sınıftır.
+
+
+
+
+# 4.gün
+## Atom aracılığıyla Git serivisine bağlanmak 
+İlk önce SSH anahtarının GitHub (veya kullanacağımız başka bir Git servisi) üzerinde kayıtlı olması gerekiyor. [SSH anahtarını nasıl buluyoruz?](https://github.com/nuriakman/PHP-Egitimi/blob/master/konular/ayarlar.sshkey.md) sorusunun cevabı burada. 
+(Tabi bunlardan önce bilgisayarımızda Git konfigürasyonlarının yapılmış olması gerekiyor. 
