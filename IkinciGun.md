@@ -1,5 +1,7 @@
 # İkinci Gün 21.07.2019
 
+![ekran](https://i.hizliresim.com/6Dmzm7.png)
+
 ## Commit Nedir?
 Bilgisayar bilimi ve veri yönetiminde, bir taahhüt kalıcı bir dizi geçici değişiklik yapmaktır. Popüler bir kullanım bir işlemin sonundadır. Bir taahhüt bir taahhüt hareketidir.
 ## Markdown komuları
