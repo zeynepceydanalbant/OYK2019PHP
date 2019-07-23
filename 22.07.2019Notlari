@@ -1,0 +1,58 @@
+# 22.07.2019
+## Üçüncü Gün Notları
+
+### İndirmedeki Hataları Görme
+- Öncelikle dosya büyüklükleri karşılaştırılmalıdır.
+- O kısımda bir farklılık gözükmüyor ise; (her dosyanın bir parmak izi vardır.) MDSSUM ile dosyanın parmak izlerinin karşılaştırarak kontrol edebilirsiniz.
+
+### İnternetten Aldığımız Verileri Veri Tabanına Aktarma
+
+Bunun için önce gerekli veri bulunur, uygun forma getirilir ve içeri aktar butonu ile verileri seçerek işlem tamamlanır. Veri aktarırken bilgiler arasındaki karaktere göre seçim yapılır eğer verileriniz şu şekilde ise;
+
+- a b --> TSV 
+- a,b --> CSV,
+- a;b --> CSV;
+
+seçilmelidir.
+
+SQL komutu ile ekleme yapmak isterseniz;
+```
+INSERT INTO `Şehirler` (`plaka_kodu`, `Sehir_Adi`)
+VALUES ('34', 'İstanbul');
+``` 
+SQL komutu ile çıkarma yapmak isterseniz;
+```
+DELETE FROM `Şehirler`
+WHERE ((`plaka_kodu` = '1'));
+```
+gibi kullanabilirsiniz.
+
+### Bazı SQL Komutları
+- ```SELECT``` : Bu komut Personel tablosundaki tüm veriyi sorgulamak için kullanılır, * yerine o tablodaki tüm kolonları yazarak ta hepsini getirmiş oluruz.
+- ```FROM``` : Nereden olacağı seçmiş oluruz.
+- ``` WHERE``` :Bu komut ile tablonun belirli bir kısmını görmek için koşul sunabiliriz.
+Where koşul cümlesinden sonra daha fazla koşul eklemek istersek AND veya OR kullanarak birleştirebiliriz.
+- ```ORDER BY Fiyat``` : Fiyat'a göre sırala anlamına gelmektedir.
+- ``` DESC``` : Sıralamayı yüksekten düşüğe doğru yapmayı sağlar.
+- ```BETWEEN``` : "Where fiyat BETWEEN 200 AND 300" gibi kullanıldığında fiyata göre 200 ile 300 arasında olanları göster anlamına gelmektedir.
+- ```%a``` : a ile bitenleri bul.
+- ```a%``` : a ile başlayanları bul.
+- ```%a%``` : arasında a geçenleri bul.
+- ```%a__%``` : a ile başlayan üç harfli kelimeleri bul.
+- ```DISTING``` : Tekrarlı olanları getirmez.
+
+### Veritabanı Nedir?
+Veri tabanları birbirleriyle ilişkili bilgilerin depolandığı alanlardır. Bilgi artışıyla birlikte bilgisayarda bilgi depolama ve bilgiye erişim konularında yeni yöntemlere ihtiyaç duyulmuştur.
+
+### Projenizi Hem Bilgisayarınızda Hem de Github'da Kullanma
+- Github üzerinde bir depo oluşturun.
+- Adresini kopyalayın.
+- Html klasörü dizininden terminali açıp ``` git clone xxadres``` diyerek projenizi aktarın.
+- Proje klasörünüze terminalden ulaşarak ```atom .``` diyerek projenizi atom üzerinden başlatın.
+- Değişiklik yapıldıkça atom üzerinden push fonksiyonunu kullanarak değişiklikleri github hesabınızdaki projenize aktarabilirsiniz.
+- Localhost sayfasından değişikleri takip etmeniz mümkündür.
+
+### PHP Giriş
+**PHP** bir dosyayı çözümlerken, hangi bölümü yorumlayıp hangi bölümü yorumlamadan geçeceğine karar vermek için açılış ve kapanış etiketlerine bakar. Bu şekilde çözümleme **PHP**'nin her çeşit farklı belgeye gömülmesini sağlar, çünkü bir çift açılış ve kapanış etiketinin dışındaki her şey **PHP** çözümleyicisi tarafından gözardı edilir. **PHP** ayrıca kısa başlangıç etiketine de `<?` izin verir. Bir dosya saf **PHP** kodu ise, dosyanın sonunda **PHP** kapanış etiketini koymamak tercih edilir. **PHP** kodları `php <?php .... ?>`etiketleri arasına yazılır.
+ **PHP**'de tüm değişkenler $ ile başlar.
+ 
