@@ -3,13 +3,23 @@
 ## New Repository(Yeni Depo) Nasıl Oluşturulur?
 Profilinizin sağ üst köşesindeki "+" işaretine tıklayınız.
 
-![enter image description here](file:///home/zeynep/Masa%C3%BCst%C3%BC/ekran1.png)
+![ekran](ekran1.png)
+<br>
+
 Karşınıza bu sayfa çıkacaktır.
-![ekran](https://i.hizliresim.com/6Dmzm7.png)
+
+![ekran](son.png)
+
 1- Deponuza bir isim veriniz.
+
 2- Açıklama giriniz.
-3-Eğer girdilerinizi herkesin görmesini istiyorsanız public seçeneğini, eğer size özel kalmasını istiyorsanız private seçeneğini seçiniz.(Seçimizi daha sonra değiştirebilirsiniz.)- 4- Mevcut bir havuzunuz yoksa depoya konulacak şeyler hazır değilse bu seçeneği seçip depoyu README adlı dosya ile başlatabilirsiniz.
+
+3-Eğer girdilerinizi herkesin görmesini istiyorsanız public seçeneğini, eğer size özel kalmasını istiyorsanız private seçeneğini seçiniz.(Seçimizi daha sonra değiştirebilirsiniz.)
+
+4- Mevcut bir havuzunuz yoksa depoya konulacak şeyler hazır değilse bu seçeneği seçip depoyu README adlı dosya ile başlatabilirsiniz.
+
 5- Lisans ile alakalı seçimler
+
 6-Deponuzu oluşturunuz.
 ## Commit Nedir?
 Bilgisayar bilimi ve veri yönetiminde, bir taahhüt kalıcı bir dizi geçici değişiklik yapmaktır. Popüler bir kullanım bir işlemin sonundadır. Bir taahhüt bir taahhüt hareketidir.
