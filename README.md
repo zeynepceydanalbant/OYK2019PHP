@@ -54,7 +54,31 @@ Belirli bir görevi yerine getirebilmek için arka planda çalışan ve kullanı
 
 
 
-# 4.gün
-## Atom aracılığıyla Git serivisine bağlanmak 
+## 4.gün
+### Atom aracılığıyla Git serivisine bağlanmak 
 İlk önce SSH anahtarının GitHub (veya kullanacağımız başka bir Git servisi) üzerinde kayıtlı olması gerekiyor. [SSH anahtarını nasıl buluyoruz?](https://github.com/nuriakman/PHP-Egitimi/blob/master/konular/ayarlar.sshkey.md) sorusunun cevabı burada. 
 (Tabi bunlardan önce bilgisayarımızda Git konfigürasyonlarının yapılmış olması gerekiyor. 
+
+TODO: Başlığı tamamla. 
+
+## 5.gün
+### PHP Komutları
+
+- file_get_contents : Dosyadan direkt olarak içeriği sayfaya çekip, gösterir. 
+- file: Dosyada bulunan içeriği dizi olarak çekip satır satır gösterir. 
+- print_r($array) : Dizileri yazdırmak için kullanılan fonksiyon.
+- explode("ayırıcı", variable) : Değişkeni ilk parametredeki karaktere göre patlatır ve bir dizi oluşturur. 
+- implode("birleştirici", dizi): Diziyi ilk parametredeki karaktere göre birleştirir ve bir karaktere atar. 
+Not: Ayırıcı ve birleştirici gibi ifadeler ,;.- gibi karakterlerdir.
+- die("") : İşlemi bitirir ve bitirirken yazı yazdırabilir. 
+- md5($str) : Bu ifade dosyanın veya ifadenin parmak izini çıkarmak için kullanılır. Şifreleme yapmak için veya bir veri türünü orjinali ile kıyaslamak için kullanılır. 
+- sha1($str) : md5 gibi verinin parmak izini çıkartır. md5'in istatistiksel olarak (çok düşük bir ihtimal de olsa) aynısının var olma ihtimali varken sha1'i de böyle bir ihtimal yoktur. 
+
+###### git reset --hard : Bu komut ile Git'ten "git pull" ile çektiğimiz ve düzenlediğimiz dosyayı, düzenlemeden önceki haline döndürebiliriz. 
+
+- sudo chmod g+w isimler.txt
+
+#### Kaçış Karakterleri
+- \n new line
+- \r return 
+- \t tab 
