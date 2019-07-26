@@ -4,7 +4,7 @@
 - StackEdit i git e bağlama
 - Forklanan projeyi günceleme
 - Header kullanımı
-- Session komutu
+- Session komutu nasıl kullanılır?
 - Tirello nedir nasıl kullanılır?
 - Veri tabanından veri çekme
 - Veri tabanına veri ekleme
@@ -12,3 +12,5 @@
 - Git pull nedir?
 - Git reset --hard nedir?
 - Ssh key nedir?
+-Ping nedir?
+
