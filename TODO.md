@@ -12,5 +12,9 @@
 - Git pull nedir?
 - Git reset --hard nedir?
 - Ssh key nedir?
--Ping nedir?
+- Ping nedir?
+- Veri nasıl çekilir?
+- Nasıl işlenir?
+- Formda kayıtlı veri bırakmak
+- Selected komutu nedir(html)?
 
