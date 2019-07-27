@@ -22,6 +22,7 @@
 - gitte projenin eski haline dönme ,bakma
 - git checkout LOGID?master?
 - git log --oneline nedir?
+- bootstrap kullanımı
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
