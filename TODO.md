@@ -22,6 +22,8 @@
 - gitte projenin eski haline dönme ,bakma
 - git checkout LOGID?master?
 - git log --oneline nedir?
+## NETWORK
+### Mehmet İnce
 - DMZ Nedir?
 - OSI katmanları
 - Brodcast mesajları
@@ -34,5 +36,12 @@
 - TCP
 - SYN (3 hardshec)
 - FIREWALL
+- reserve proxy
+- load blance
+- floathing IP
+- DevOps
+- redis
+- Destinationsorıp
+
 
 
