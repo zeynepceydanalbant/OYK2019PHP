@@ -20,3 +20,5 @@
 - gitignore nedir? Nasıl kullanilir?
 - du -sh komutu nedir?
 - gitte projenin eski haline dönme ,bakma
+- git checkout LOGID?master?
+- git log --oneline nedir?
