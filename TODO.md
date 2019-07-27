@@ -17,4 +17,6 @@
 - Nasıl işlenir?
 - Formda kayıtlı veri bırakmak
 - Selected komutu nedir(html)?
-
+- gitignore nedir? Nasıl kullanilir?
+- du -sh komutu nedir?
+- gitte projenin eski haline dönme ,bakma
