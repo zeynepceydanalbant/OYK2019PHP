@@ -22,3 +22,10 @@
 - gitte projenin eski haline dönme ,bakma
 - git checkout LOGID?master?
 - git log --oneline nedir?
+- DMZ Nedir?
+- OSI katmanları
+- Brodcast mesajları
+-GW nedir?
+-NetworkMask Nedir?
+- DHCP nedir?
+
