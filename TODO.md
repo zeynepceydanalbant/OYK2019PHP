@@ -28,4 +28,11 @@
 -GW nedir?
 -NetworkMask Nedir?
 - DHCP nedir?
+- ARP
+- Port
+- NAT
+- TCP
+- SYN (3 hardshec)
+- FIREWALL
+
 
