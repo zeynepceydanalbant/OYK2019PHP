@@ -24,6 +24,10 @@
 - git log --oneline nedir?
 - CSS framework
 - bootstrap kullanımı
+-grid yapısı
+-col-xl/col-lg...
+-mt-s
+- container-fluid
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
@@ -44,6 +48,7 @@
 - DevOps
 - redis
 - Destinationsorıp
+
 
 
 
