@@ -22,6 +22,7 @@
 - gitte projenin eski haline dönme ,bakma
 - git checkout LOGID?master?
 - git log --oneline nedir?
+- CSS framework
 - bootstrap kullanımı
 ## NETWORK
 ### Mehmet İnce
