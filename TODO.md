@@ -32,6 +32,7 @@
 - SPA nedir?
 - javascript/Ajax
 - UTF-8 nedir?
+- Jquery kütüphanesi
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
