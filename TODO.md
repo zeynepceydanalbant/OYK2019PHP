@@ -28,6 +28,9 @@
 -col-xl/col-lg...
 -mt-s
 - container-fluid
+- Powercent animated videos (öneri)
+- SPA nedir?
+- javascript/Ajax
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
