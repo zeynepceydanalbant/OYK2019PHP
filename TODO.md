@@ -31,6 +31,7 @@
 - Powercent animated videos (öneri)
 - SPA nedir?
 - javascript/Ajax
+- UTF-8 nedir?
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
