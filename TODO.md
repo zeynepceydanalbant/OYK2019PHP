@@ -49,6 +49,10 @@
 - redis
 - Destinationsorıp
 
+### Eğitimden Sonra
+- Udemy kursu al
+- Veri tabanı kullanımını geliştir
+
 
 
 
