@@ -33,6 +33,11 @@
 - javascript/Ajax
 - UTF-8 nedir?
 - Jquery kütüphanesi
+- MD Bootstrap
+- d-none
+- .show
+-removeClass();
+-Lorem ipsum sitesi
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
