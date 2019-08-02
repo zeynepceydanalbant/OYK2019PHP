@@ -51,9 +51,11 @@ Izgara ( Grid ) sistemleri sitemizin belli standarda uygun ve hızlı bir şekil
 -Lorem ipsum sitesi
 ## NETWORK
 ### Mehmet İnce
-- DMZ Nedir?
+#### DMZ Nedir?
 
-### OSI katmanları
+Bilgisayar güvenliği'nde, bir DMZ veya sivil bölge bir kuruluşun dış servislerini içeren ve bu servisleri daha büyük güvensiz bir ağa maruz bırakan fiziksel veya mantıksal bir alt ağdır.
+
+#### OSI katmanları
 
 OSI (Open Systems Interconnection) modelini ISO (International Organization for Standardization) geliştirmiştir. Amaç iki bilgisayar arasındaki iletişimin nasıl olacağını tanımlamaktır.
 
@@ -74,7 +76,11 @@ OSI (Open Systems Interconnection) modelini ISO (International Organization for 
 
 - Brodcast mesajları
 - GW nedir?
-- NetworkMask Nedir?
+
+#### NetkMask Nedir?
+
+Netmask; Bilgisayar ağlarında iki cihazın aynı ağda olup olmadıklarını anlayabildikleri Tcp/ip adresleridir. Bir adres alanını subnetlere bölmek için kullanılan yapıdır.
+
 - DHCP nedir?
 - ARP
 - Port
