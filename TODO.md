@@ -30,6 +30,7 @@ Ping programı, 1983 yılında Mike Muuss tarafından yazılmış bir programdı
 - git log --oneline nedir?
 - CSS framework
 - bootstrap kullanımı
+
 -grid yapısı
 
 Izgara ( Grid ) sistemleri sitemizin belli standarda uygun ve hızlı bir şekilde sayfa planını oluşturmamıza yarayan sistemlerdir. Bu sistemlerin uygulaması tasarımdan başlar. Tasarımcı bu sisteme uygun bir site çıkarır. Kod yazarken bizde bu yapıyı uygularız. 
