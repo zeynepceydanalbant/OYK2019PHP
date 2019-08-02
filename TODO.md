@@ -11,11 +11,12 @@
 - Spagetti kod nedir?
 - Git pull nedir?
 - Git reset --hard nedir?
-- Ssh key nedir?
+
+### Ssh key nedir?
 
 SSH, veya Secure Shell, kullanıcılara sunucularını internet üzerinden kontrol etmesini ve düzenlemesini sağlayan uzak yönetim protokolüdür. SSH, şifrelenmemiş Telnet için güvenli bir yedek olarak oluşturuldu. SSH, şifreleme tekniğini kullanarak uzaktaki sunucuya giden & uzaktaki sunucudan gelen tüm iletişimlerin şifrelendiğinden emin olur. Uzak bir kullanıcının kimliğini doğrulamak, istemciden ana bilgisayara girişleri aktarmak ve çıktıyı istemciye geri göndermek için bir mekanizma sağlar.
 
-- Ping nedir?
+### Ping nedir?
 
 Ping programı, 1983 yılında Mike Muuss tarafından yazılmış bir programdır. Bir makineye genelde 32 baytlık bir ICMP pakedi gönderir ve aynı paketin geri gelmesini bekler. Bu basit program, birçok işe yarayabilir. Sunucu size ne kadar uzak ise, bu süre de o kadar artmaktadır.
 
@@ -35,8 +36,8 @@ Ping programı, 1983 yılında Mike Muuss tarafından yazılmış bir programdı
 
 Izgara ( Grid ) sistemleri sitemizin belli standarda uygun ve hızlı bir şekilde sayfa planını oluşturmamıza yarayan sistemlerdir. Bu sistemlerin uygulaması tasarımdan başlar. Tasarımcı bu sisteme uygun bir site çıkarır. Kod yazarken bizde bu yapıyı uygularız. 
 
--col-xl/col-lg...
--mt-s
+- col-xl/col-lg...
+- mt-s
 - container-fluid
 - Powercent animated videos (öneri)
 - SPA nedir?
@@ -51,6 +52,7 @@ Izgara ( Grid ) sistemleri sitemizin belli standarda uygun ve hızlı bir şekil
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
+
 ### OSI katmanları
 
 OSI (Open Systems Interconnection) modelini ISO (International Organization for Standardization) geliştirmiştir. Amaç iki bilgisayar arasındaki iletişimin nasıl olacağını tanımlamaktır.
@@ -71,8 +73,8 @@ OSI (Open Systems Interconnection) modelini ISO (International Organization for 
 7- Application (Uygulama Katmanı)
 
 - Brodcast mesajları
--GW nedir?
--NetworkMask Nedir?
+- GW nedir?
+- NetworkMask Nedir?
 - DHCP nedir?
 - ARP
 - Port
