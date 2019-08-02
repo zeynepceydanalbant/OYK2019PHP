@@ -12,6 +12,7 @@
 - Git pull nedir?
 - Git reset --hard nedir?
 - Ssh key nedir?
+SSH, veya Secure Shell, kullanıcılara sunucularını internet üzerinden kontrol etmesini ve düzenlemesini sağlayan uzak yönetim protokolüdür. SSH, şifrelenmemiş Telnet için güvenli bir yedek olarak oluşturuldu. SSH, şifreleme tekniğini kullanarak uzaktaki sunucuya giden & uzaktaki sunucudan gelen tüm iletişimlerin şifrelendiğinden emin olur. Uzak bir kullanıcının kimliğini doğrulamak, istemciden ana bilgisayara girişleri aktarmak ve çıktıyı istemciye geri göndermek için bir mekanizma sağlar.
 - Ping nedir?
 - Veri nasıl çekilir?
 - Nasıl işlenir?
