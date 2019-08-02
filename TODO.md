@@ -31,7 +31,7 @@ Ping programı, 1983 yılında Mike Muuss tarafından yazılmış bir programdı
 - CSS framework
 - bootstrap kullanımı
 
--grid yapısı
+### grid yapısı
 
 Izgara ( Grid ) sistemleri sitemizin belli standarda uygun ve hızlı bir şekilde sayfa planını oluşturmamıza yarayan sistemlerdir. Bu sistemlerin uygulaması tasarımdan başlar. Tasarımcı bu sisteme uygun bir site çıkarır. Kod yazarken bizde bu yapıyı uygularız. 
 
@@ -51,7 +51,7 @@ Izgara ( Grid ) sistemleri sitemizin belli standarda uygun ve hızlı bir şekil
 ## NETWORK
 ### Mehmet İnce
 - DMZ Nedir?
-- OSI katmanları
+### OSI katmanları
 
 OSI (Open Systems Interconnection) modelini ISO (International Organization for Standardization) geliştirmiştir. Amaç iki bilgisayar arasındaki iletişimin nasıl olacağını tanımlamaktır.
 
