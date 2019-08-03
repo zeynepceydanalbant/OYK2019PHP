@@ -98,4 +98,4 @@ Netmask; Bilgisayar ağlarında iki cihazın aynı ağda olup olmadıklarını a
 ### Eğitimden Sonra
 - Udemy kursu al
 - Veri tabanı kullanımını geliştir
-
+--- PROJE DESTEĞİ VERİLECEK---
